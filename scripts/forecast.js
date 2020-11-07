@@ -1,4 +1,4 @@
-const key = "HZL2N4IpZApcSGt7uqHlaGLVGofm179I";
+const key = "SxGwFGFdoFpVcwZ1xj4xY6ETBNi4TzPx";
 
 // get weather Information
 
