@@ -1,3 +1,3 @@
 # Weather-App
 
-Live Preview: https://izukumid0riya.github.io/Weather-App/
+Live Preview: https://izuku152.github.io/Weather-App/
